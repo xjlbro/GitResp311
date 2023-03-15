@@ -1,11 +1,13 @@
 package com.mashibing.demo;
 
+import java.io.File;
+
 /**
  * @author xjl
  * @date 2023/3/13
  */
 public class Demo1 {
-    private String name;
-    private int age;
-    private char sex;
+    public static void main(String[] args) {
+        System.out.println(File.separator);
+    }
 }
