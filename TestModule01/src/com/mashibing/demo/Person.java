@@ -6,7 +6,7 @@ package com.mashibing.demo;
  */
 public class Person {
 
-
+        private String name;
 
 
 }
